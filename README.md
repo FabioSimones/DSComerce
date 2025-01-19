@@ -1,4 +1,5 @@
-##Formação Java Spring Professional - Desenvolvedor Backend
+## Formação Java Spring Professional - Desenvolvedor Backend
+
 --([Fábio Simones](https://github.com/FabioSimones))
 
 ## DESAFIO: Projeto Spring Boot estruturado
@@ -20,9 +21,9 @@ menos 12 commits no seu usuário do Github.<br>
 7. Usuário que não é ADMIN não consegue acessar pedido que não é dele em GET /orders/{id} <b>(eliminatório)</b>
 8. Endpoint GET /categories retorna todas categorias
 
-##Projeto Sistema DSCommerce
+## Projeto Sistema DSCommerce
 
-##1. Premissas
+## 1. Premissas
 
 Deve-se construir uma aplicação para ser utilizada no processo de aprendizagem, para isso a concepção do sistema 
 partiu das seguintes premissas:
@@ -49,11 +50,11 @@ podem se cadastrar no sistema, navegar no catálogo de produtos e no carrinho de
 cadastro no sistema, registrar pedidos e visualizar seus próprios pedidos. Usuários administradores tem acesso à área 
 administrativa onde pode acessar os cadastros de usuários, produtos e categorias.
 
-##3. Protótipos de tela
+## 3. Protótipos de tela
 
 https://www.figma.com/file/ZrGNVNG0kZL6txDv4G8P6s/DSCommerce
 
-##4. Modelo Conceitual
+## 4. Modelo Conceitual
 
 Este é o modelo conceitual do sistema DSCommerce. Considerações:
 --- Cada item de pedido (OrderItem) corresponde a um produto no pedido, com uma quantidade. Sendo que o preço também é 
