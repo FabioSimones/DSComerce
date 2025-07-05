@@ -34,7 +34,7 @@ explore vários tipos de relacionamentos entre as entidades de negócio (muitos-
 --- O sistema deve conter as principais funcionalidades que se espera de um profissional iniciante deve saber 
 construir, tais como telas de cadastro e fluxos de caso de uso.
 
-##2. Visão geral do sistema
+## 2. Visão geral do sistema
 
 O sistema deve manter um cadastro de usuário, produtos e suas categorias. Cada usuário possui nome, email, telefone,
 data de nascimento e uma senha de acesso. Os dados dos produtos são: nome, descrição, preço e imagem. O sistema deve 
